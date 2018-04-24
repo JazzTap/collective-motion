@@ -15,4 +15,5 @@ https://dsp.stackexchange.com/a/2290
 Some future directions:
 * analysis of the implicit force field via numdifftools
     * https://stackoverflow.com/a/39558950
-* it'll come to me
+* port Sim to theano-like gpu-compiler, run on 5x5x5 parameter grid
+    * summarize runs in terms of cluster eigenvalues at 'good timestep'
